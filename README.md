@@ -1,3 +1,13 @@
+# _config.yml
+# categories
+# assets
+# _posts
+$ jekyll serve
+
+
+
+
+
 # Catbook
 CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch button to toggle between dark mode and light mode. This theme is originally inspired from [Book](https://github.com/kkninjae/book).
 
