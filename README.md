@@ -1,7 +1,10 @@
-# _config.yml
-# categories
-# assets
-# _posts
+#ToDo
+ _config.yml
+ categories
+ assets
+ _posts
+
+#To run the blog
 $ jekyll serve
 
 
