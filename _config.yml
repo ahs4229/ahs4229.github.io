@@ -23,7 +23,7 @@ user:
   name: yj
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: Operation Management, Customer Behavior, Multi-stage Decision Making, Stochastic Optimization, Videogame Industry
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
