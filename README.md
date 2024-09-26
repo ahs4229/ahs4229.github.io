@@ -1,11 +1,11 @@
 # ToDo
- _config.yml
- categories
- assets
+ _config.yml <br>
+ categories <br>
+ assets <br>
  _posts
 
 # To run the blog
-$ jekyll serve
+$ jekyll serve <!-- 주석 -->
 
 
 
