@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description...
 
-baseurl: http://yj.github.io/cv# the subpath of the site
-url: http://yj.github.io/cv # the base hostname & protocol for your site
+baseurl: # the subpath of the site
+url: http://ahs4229.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
