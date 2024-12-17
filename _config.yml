@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: yj
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/cat_404.jpg
   picAlt: "catbook"
   job: Operation Management, Customer Behavior, Multi-stage Decision Making, Stochastic Optimization, Videogame Industry
   aboutme: true # comment this out if you don't need the 'about' page.
