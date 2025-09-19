@@ -5,7 +5,7 @@ email: ahs422930@gmail.com
 description: > # this means to ignore newlines until "baseurl"
 
 
-baseurl: /html # the subpath of the site
+baseurl: # the subpath of the site
 url: http://ahs4229.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
