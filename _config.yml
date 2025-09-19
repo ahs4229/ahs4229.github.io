@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: yj
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/moogle.png
   picAlt: "catbook"
   interst: Management science, Customer behavior, Dynamic Programming, Queueing
   aboutme: true # comment this out if you don't need the 'about' page.
