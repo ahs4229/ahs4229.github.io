@@ -21,8 +21,6 @@ cusdis:
 
 user:
   name: yj
-  pic: /assets/img/ Moogle.png
-  picAlt: "yy"
   pic: /assets/img/Moogle.png
   picAlt: "catbook"
   interst: Management science, Customer behavior, Dynamic Programming, Queueing
