@@ -1,12 +1,8 @@
 
 title: YJ_CV #Your awesome title
 email: ahs422930@gmail.com
-description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description...
 
-baseurl: # the subpath of the site
+baseurl: yj4229.github.io # the subpath of the site
 url: http://ahs4229.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
@@ -20,7 +16,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: yj
+  name: yj Yoo
   pic: /assets/img/Moogle.png
   picAlt: "catbook"
   job: Management science, Customer behavior, Dynamic Programming, Queueing
