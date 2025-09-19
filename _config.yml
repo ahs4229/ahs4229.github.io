@@ -2,9 +2,10 @@
 title: YJ_CV #Your awesome title
 email: ahs422930@gmail.com
 
-description: >#
+description: > # this means to ignore newlines until "baseurl"
 
-baseurl: yj4229.com # the subpath of the site
+
+baseurl: /html # the subpath of the site
 url: http://ahs4229.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
