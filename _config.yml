@@ -2,7 +2,9 @@
 title: YJ_CV #Your awesome title
 email: ahs422930@gmail.com
 
-baseurl: yj4229.github.io # the subpath of the site
+description: >#
+
+baseurl: yj4229.com # the subpath of the site
 url: http://ahs4229.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
