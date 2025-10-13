@@ -1,5 +1,5 @@
 ---
-title: genetic algorithm with tournament selection
+title: genetic algorithm
 categories: [code]
 comments: true
 ---

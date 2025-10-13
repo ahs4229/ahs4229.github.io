@@ -22,7 +22,7 @@ user:
   name: yj Yoo
   pic: /assets/img/Moogle.png
   picAlt: "catbook"
-  job: Management science, Customer behavior, Dynamic Programming
+  job: Management science, Customer behavior, Dynamic Programming, Video game industry
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
