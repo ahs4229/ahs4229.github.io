@@ -272,7 +272,7 @@ legend()
 
 
     
-![png](./picture/output_4_0.png)
+![png](/_posts//picture/output_4_0.png)
     
 
 
