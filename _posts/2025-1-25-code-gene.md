@@ -277,7 +277,7 @@ plot(1:max_gen, 500 .- curve)
 
 
     
-![png](./picture/output_6_1.png)
+![png](/_posts//picture/output_6_1.png)
     
 
 
